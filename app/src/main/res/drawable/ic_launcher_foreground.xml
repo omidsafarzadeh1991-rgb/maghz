@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Two book spines on a shelf with a small spark: a library that keeps growing -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#9B7BF0" android:pathData="M34,36h12a2,2 0,0 1,2 2v34a2,2 0,0 1,-2 2h-12a2,2 0,0 1,-2 -2v-34a2,2 0,0 1,2 -2z" />
+    <path android:fillColor="#F08A4B" android:pathData="M51,32h11a2,2 0,0 1,2 2v38a2,2 0,0 1,-2 2h-11a2,2 0,0 1,-2 -2v-38a2,2 0,0 1,2 -2z" />
+    <path android:fillColor="#5CC08A" android:pathData="M67.2,40.4l8.7,-2.4a2,2 0,0 1,2.5 1.4l8.5,30.8a2,2 0,0 1,-1.4 2.5l-8.7,2.4a2,2 0,0 1,-2.5 -1.4l-8.5,-30.8a2,2 0,0 1,1.4 -2.5z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M30,76h50v4h-50z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.55" android:pathData="M36,44h8v3h-8zM36,50h8v3h-8zM53,40h7v3h-7zM53,46h7v3h-7z" />
+</vector>
